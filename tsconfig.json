@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "es6",
+    "allowJs": true,
+    "paths": {
+      "@public/*": [
+        "public/*"
+      ],
+      "@images/*": [
+        "public/images/*"
+      ],
+      "@src/*": [
+        "src/*"
+      ],
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@modals/*": [
+        "src/components/modals/*"
+      ],
+      "@core/*": [
+        "src/components/core/*"
+      ],
+      "@contexts/*": [
+        "src/contexts/*"
+      ],
+      "@pages/*": [
+        "src/pages/*"
+      ],
+      "@users/*": [
+        "src/pages/users/*"
+      ],
+      "@system/*": [
+        "src/pages/system/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@iconHelper/*": [
+        "src/utils/iconHelper/*"
+      ],
+    },
+    "outDir": "dist"
+  }
+}
