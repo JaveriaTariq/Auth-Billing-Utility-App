@@ -9,7 +9,7 @@ This is a React project built for the **Code Challenge**. It includes:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/JaveriaTariq/Quickly-Challenge.git
-   cd Quickly-Challenge
+   cd Auth-Billing-Utility-App
    ```
 2. Install dependencies:  
    ```bash
